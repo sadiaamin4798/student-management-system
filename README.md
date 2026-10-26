@@ -17,6 +17,12 @@ A complete full-stack Student Management System built for my 5th-semester Advanc
 The system uses 10 interconnected tables:
 `students`, `teachers`, `departments`, `courses`, `enrollments`, `course_teacher`, `attendance`, `exams`, `fees`, `timetable`.
 
+## 📸 Screenshots
+![Admin Dashboard](admin_dashboard.png)
+![Student](student_table.png)
+![Attendance](attendance.png)
+![Fee Records](fee_records.png)
+
 ## 🚀 How to Run Locally
 1. Clone this repo: `git clone https://github.com/sadiaamin4798/student-management-system.git`
 2. Install dependencies: `npm install`
